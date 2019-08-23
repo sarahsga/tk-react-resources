@@ -1,0 +1,15 @@
+extends layout
+
+block content
+    #my-web-page
+        ul
+            - each message in messages
+                li(class= message.isUnread === true ? "unread" : "")
+                    .pic(style="background-image: url('#{message.profilePic}'")
+                    div
+                        h3.name #{message.name}
+                        p.phone #{message.number}
+                        p.msg #{message.firstLine}
+                        p.time #{message.time}
+                        if message.numbUnread
+                            span.numb-unread #{message.numbUnread}

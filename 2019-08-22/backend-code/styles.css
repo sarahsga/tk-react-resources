@@ -1,0 +1,54 @@
+ul {
+    list-style: none;
+    border: 2px solid #bcbcbc;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 1em;
+    padding: 0;
+}
+
+ul>li>div>* {
+    margin: 0;
+}
+
+ul>li {
+    display: flex;
+    align-items: flex-start;
+    padding: 1em 2em;
+    position: relative;
+}
+
+li.phone {
+    color: #666;
+}
+
+li .pic {
+    height: 60px;
+    width: 60px;
+    background-position: center;
+    border-radius: 100%;
+    margin-right: 1em;
+}
+
+li .msg,
+.time {
+    margin-top: 1em;
+}
+
+li:nth-child(odd) {
+    background-color: aquamarine;
+}
+
+li:nth-child(even) {
+    background-color: darksalmon;
+}
+
+li .numb-unread {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    background: green;
+    padding: 4px 10px;
+    border-radius: 12px;
+    color: white;
+}
