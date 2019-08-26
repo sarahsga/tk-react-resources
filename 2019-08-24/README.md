@@ -29,4 +29,4 @@ We studied the following topics:
 - Query String is preceded by a ?
 - Query string has many key value pairs. Pair are separated by &
 - Each pair in the query string has format `key=value`
-- Example query string: `?name=sarah&id=4536
+- Example query string: `?name=sarah&id=4536`
