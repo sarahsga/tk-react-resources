@@ -12,6 +12,7 @@ We studied the following topics:
 
 We also looked at
 - Photoshop random stuff like changing color and opacity. Selecting objects and moving them around. Changing backgrounds, etc. (see how we changed [this image](image3.jpg) to [this using Photoshop](background.png))
+- RAM vs HardDisk for storage (Kitchen Salad example - bench vs fridge)
 
 ### Homework
 - Complete FreeCodeCamp Javascript Object Oriented Programming tasks
