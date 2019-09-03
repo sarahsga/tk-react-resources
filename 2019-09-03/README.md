@@ -66,6 +66,7 @@ Write the HTML and Responsive CSS of [Github Home Page (signed out)](https://git
 - First write all HTML
 - Then write all CSS
 - No Lorem Ipsum allowed!
+- In your HTML, replace `class` attribute by `className`
 
 ### Some Important Commands
 Open Command prompt to type the following commands:
