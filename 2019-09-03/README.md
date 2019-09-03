@@ -57,7 +57,7 @@ We studied the following topics:
   - It is an NPM package installed globally. It is a Command Line tool used to create a ready-made React project (also called "scaffold")
 
 ### Homework
-Write the HTML and Responsive CSS of [Github Home Page (signed out)](https://github.com) inside the React project. It looks like [this](github-png-slicing.png). **Deadline: 12th Sept**. 
+Write the HTML and Responsive CSS of [Github Home Page (signed out)](https://github.com) inside the React project. It looks like [this](github-png-slice.png). **Deadline: 12th Sept**. 
 - Create the React project using `create-react-app`
 - Write all your CSS inside `src/App.css`
 - Write all your HTML inside `src/App.js`
