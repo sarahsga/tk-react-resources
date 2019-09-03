@@ -61,6 +61,11 @@ Write the HTML and Responsive CSS of [Github Home Page (signed out)](https://git
 - Create the React project using `create-react-app`
 - Write all your CSS inside `src/App.css`
 - Write all your HTML inside `src/App.js`
+- No need to add any animations.
+- No need to add an JS.
+- First write all HTML
+- Then write all CSS
+- No Lorem Ipsum allowed!
 
 ### Some Important Commands
 Open Command prompt to type the following commands:
@@ -111,7 +116,7 @@ npm install tetris -g
 
 To delete a local package, run
 ```
-npm uninstall packagename -g
+npm uninstall packagename
 ```
 
 To delete a global package, run
