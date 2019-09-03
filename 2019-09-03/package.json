@@ -1,0 +1,16 @@
+{
+  "name": "tech-karo",
+  "version": "1.0.0",
+  "description": "This is my first project... I am just testing.. blahhhh blahhh",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarah Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "better-console": "^1.0.1",
+    "boxen": "^4.1.0",
+    "camelcase": "^5.3.1"
+  }
+}
