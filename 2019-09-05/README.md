@@ -13,6 +13,7 @@ We studied the following topics:
   - How to **view green/red highlights** before committing
   - How to **commit** your changes before pushing
   - How to view History of commits on Github Desktop
+- Adding Collaborators from repo settings on Github Website
 - How to **ignore** files and folders using [.gitignore](.gitignore) file (We usually put auto-generated folders like node_modules inside the [.gitignore](.gitignore) file)
 - The `dependencies` item inside [package.json](https://github.com/sarahsga/tk-react-resources/blob/4b765bc1b2fe725c23c5f9b3a227ecd1771ed0e6/2019-09-05/package.json#L11)
   - It lists all the npm package names that should be inside node_modules in order for the project to start/run successfully
