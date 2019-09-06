@@ -1,0 +1,4 @@
+# Here, we list names of all folders and files that I do not want to be committed and pushed to Github
+
+node_modules/
+passwords.txt
