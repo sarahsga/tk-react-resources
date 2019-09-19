@@ -15,4 +15,11 @@ TechKaro is an initiative by CIRCLE Women, a social enterprise working towards w
 | -------------: |:-------------| :-----|
 | [17th Aug](https://github.com/sarahsga/tk-react-resources/tree/master/2019-08-17)    | Arrow Functions and Callbacks | Babel |
 | [22nd Aug](https://github.com/sarahsga/tk-react-resources/tree/master/2019-08-22)    | Make HTTP GET Request using Axios | Whatsapp Clone |
-
+| [24th Aug](https://github.com/sarahsga/tk-react-resources/tree/master/2019-08-24)    | Request / Query String / 3rd Party APIs | Weather App |
+| [27th Aug](https://github.com/sarahsga/tk-react-resources/tree/master/2019-08-27)    | Object Oriented JS intro | Car / Human / Burger factory functions |
+| [31st Aug](https://github.com/sarahsga/tk-react-resources/tree/master/2019-08-31)    | Constructors and Prototype chain | Rewrite Car / Human factory using constructor syntax |
+| [3rd Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-03)    | Node / NPM / CMD / Create-react-app | Hello World using CRA |
+| [5th Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-05)    | Github Desktop | Installation and Use |
+| [7th Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-07)    | Bootstrap | Have fun with ready made CSS |
+| [12th Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-12)    | React Components | Github Clone |
+| [14th Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-03)    | React Props | Github Clone |
