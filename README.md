@@ -22,4 +22,4 @@ TechKaro is an initiative by CIRCLE Women, a social enterprise working towards w
 | [5th Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-05)    | Github Desktop | Installation and Use |
 | [7th Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-07)    | Bootstrap | Have fun with ready made CSS |
 | [12th Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-12)    | React Components | Github Clone |
-| [14th Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-03)    | React Props | Github Clone |
+| [14th Sept](https://github.com/sarahsga/tk-react-resources/tree/master/2019-09-14)    | React Props | Github Clone |
