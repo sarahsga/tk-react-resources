@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types';
 
 export default function ImgCard(props) {
     return (
@@ -7,7 +8,7 @@ export default function ImgCard(props) {
             <figcaption>
                 <p>{props.heading}</p>
                 <span>{props.children}</span>
-                <a href="{props.anchorURL}">Read more</a>
+                <a href={props.anchorURL}>Read more</a>
             </figcaption>
         </figure>
     )

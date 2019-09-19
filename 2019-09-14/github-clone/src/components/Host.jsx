@@ -8,7 +8,7 @@ export default function Host() {
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 64 64"
-                        class="mr-4"
+                        className="mr-4"
                         width="64px"
                     >
                         <path

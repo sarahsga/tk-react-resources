@@ -667,7 +667,8 @@ footer > .footerList > ul > li {
   margin: 17px 20px;
 }
 footer > .footerList > .gitIcon {
-  width: 300px;
+  /* width: 300px; */
+  font-weight: bold;
 }
 
 /* media */
