@@ -1,0 +1,14 @@
+.Persons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Persons ul > * {
+    margin: 1em 0;
+}
+
+.Persons ul {
+    padding: 0;
+}

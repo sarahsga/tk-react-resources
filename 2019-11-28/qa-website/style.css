@@ -1,0 +1,70 @@
+.login-form {
+    padding: 1em;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.1);
+    min-width: 400px;
+}
+
+#emailInput {
+    margin-left: -1em;
+}
+
+.btn-now {
+    background-color: #e06d4d;
+    color: white;
+}
+
+.login-form h3 {
+    font-weight: bold;
+    font-size: 2em;
+    color: rgba(240, 95, 64, 0.9);
+    border-bottom: 1px solid rgba(240, 95, 64, 0.7);
+    padding-bottom: 1em;
+}
+
+.text-muted {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.login-form form {
+    max-width: 400px;
+    margin: auto;
+    text-align: left;
+}
+
+form .controls {
+    margin: 2em auto;
+}
+
+.btn-container {
+    text-align: center;
+}
+
+.btn-container .btn {
+    min-width: 150px;
+}
+
+.login-form h3 {
+    margin: 1em 0;
+}
+
+.first-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: stretch;
+}
+
+.first-section>div:first-child {
+    flex: 1;
+    margin: 0 1em;
+    min-width: 400px;
+}
+
+.first-section>div:nth-child(2) {
+    flex: 1;
+}
+
+.empty-div {
+    max-width: 3em;
+    min-height: 3em;
+}
